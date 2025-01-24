@@ -16,7 +16,3 @@ Repositório com projetos simples para uso educativo e de consulta.
 
 ## 💡 Expressões de gratidão
 Se gostar, deixe o ❤️ no repositório.
-
-<div align="center"> 
-  <img src="./public/logo-VnW.png" alt="Logo Vai na Web" />
-</div>
