@@ -1,16 +1,12 @@
-# Projeto API
+# Projeto API Simples
+## 🔥 Introdução
 Projeto desenvolvido para consolidar os conhecimentos em API com React.
 
-## 🔥 Introdução
-Projeto final do módulo de Frontend da Formação Full Stack da [@vainaweb](https://www.instagram.com/vainaweb/)
-
-
-## 🎯📌🔗
 
 ## 📦 Tecnologias usadas
 - Vite
 - React JS
-- JavaScript(Jsx)
+- JavaScript (Jsx)
 - Sass
 - Axios
 - API
